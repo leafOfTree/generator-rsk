@@ -12,5 +12,7 @@ Then
 
 ## Usage
 
+In rsk project root, run
+
     yo rsk:com <component-name>
 
