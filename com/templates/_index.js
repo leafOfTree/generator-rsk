@@ -6,7 +6,9 @@ class <%= name %> extends React.Component {
   static propTypes = {
   }
 
-  constructor() {}
+  constructor(props) {
+    super(props);
+  }
 
   render() {
     return (
